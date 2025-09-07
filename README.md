@@ -47,4 +47,4 @@ This repository is intended for:
 
 1. Clone the repository:
    ```bash
-git clone https://github.com/solunke816/Manual_Testing.git
+   git clone https://github.com/solunke816/Manual_Testing.git
